@@ -11,7 +11,7 @@ of ninth graders at Thomas High School, the original analysis skewed.  We replac
 the entire analysis and reflected on the effects. 
 
 ## Analysis and Challenges
--How is the district summary affected?
+- How is the district summary affected?
 The average math score, average reading score, % passing math, % passing reading, and % overall passing all slightly decreased with the adjustments in the data and the addition of the NaNs.
 
 Original distrct summary:
@@ -24,7 +24,7 @@ Adjusted district summary:
 
 
 
--How is the school summary affected?  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+- How is the school summary affected?  How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 The summary for every school remained the same with the excpetion of Thomas High School.  The average reading and math scores and passing rates decreased slightly.
 
 Original School Summary:
@@ -36,7 +36,7 @@ Adjsuted School Summary for Thomas High School:
 ![image](https://user-images.githubusercontent.com/64279232/126576867-76a933a4-5c6c-424c-8cf2-4c3c02895c51.png)
 
 
--How does replacing the ninth-grade scores affect math and reading scores by grade?
+- How does replacing the ninth-grade scores affect math and reading scores by grade?
 The math and reading scores by grade did not change for any school besides Thomas High School. 
 
 Math scores for top 5 schools:
@@ -47,7 +47,7 @@ Reading scores for top 5 schools:
 
 ![image](https://user-images.githubusercontent.com/64279232/126577189-c4c1592b-f04d-4e63-b3ab-7d922b4209ba.png)
 
--How does replacing the ninth-grade scores affect scores by school spending?
+- How does replacing the ninth-grade scores affect scores by school spending?
 The scores based on student spending stayed the same for every category excpet for the $630-644 spending range per student category.  This is also the category that Thomas High School falls under, demonstarting that the change was due to the adjustments in the data with this particular school. The passing percentages slightly decreased. 
 
 Before:
@@ -59,7 +59,7 @@ After:
 ![image](https://user-images.githubusercontent.com/64279232/126577476-06346668-3dd0-49af-9ded-fb0cf37ca265.png)
 
 
--How does replacing the ninth-grade scores affect scores by school size?
+- How does replacing the ninth-grade scores affect scores by school size?
 The small and large schools had no change, but the medium schools decreased slightly.  Thomas High School falls under the medium school category, again causing a change in the data.
 
 Before:
@@ -71,7 +71,7 @@ After:
 ![image](https://user-images.githubusercontent.com/64279232/126577624-f91e2b28-36a1-47d8-981f-60615ded9604.png)
 
 
--How does replacing the ninth-grade scores affect scores by school type?
+- How does replacing the ninth-grade scores affect scores by school type?
 District data stayed the same and charter data decreased slightly, again, due to Thomas High School being a charter school.
 
 Before:
