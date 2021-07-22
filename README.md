@@ -15,9 +15,11 @@ the entire analysis and reflected on the effects.
 The average math score, average reading score, % passing math, % passing reading, and % overall passing all slightly decreased with the adjustments in the data and the addition of the NaNs.
 
 Original distrct summary:
+
 ![image](https://user-images.githubusercontent.com/64279232/126576095-e6a4649d-7b52-421c-bb7b-0b9d0296c117.png)
 
 Adjusted district summary:
+
 ![image](https://user-images.githubusercontent.com/64279232/126575962-cff82e84-e277-4f0a-8a0e-e14e468e6569.png)
 
 
@@ -26,9 +28,11 @@ Adjusted district summary:
 The summary for every school remained the same with the excpetion of Thomas High School.  The average reading and math scores and passing rates decreased slightly.
 
 Original School Summary:
+
 ![image](https://user-images.githubusercontent.com/64279232/126576419-bae115db-c55f-4dc6-b0cf-5488ad501352.png)
 
 Adjsuted School Summary for Thomas High School:
+
 ![image](https://user-images.githubusercontent.com/64279232/126576867-76a933a4-5c6c-424c-8cf2-4c3c02895c51.png)
 
 
@@ -36,18 +40,22 @@ Adjsuted School Summary for Thomas High School:
 The math and reading scores by grade did not change for any school besides Thomas High School. 
 
 Math scores for top 5 schools:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577164-7cf9cb20-5d44-44e4-96b9-72b670d50878.png)
 
 Reading scores for top 5 schools:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577189-c4c1592b-f04d-4e63-b3ab-7d922b4209ba.png)
 
 -How does replacing the ninth-grade scores affect scores by school spending?
 The scores based on student spending stayed the same for every category excpet for the $630-644 spending range per student category.  This is also the category that Thomas High School falls under, demonstarting that the change was due to the adjustments in the data with this particular school. The passing percentages slightly decreased. 
 
 Before:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577457-c20aca0d-2cac-4ac6-b2f0-9055a472a0fc.png)
 
 After:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577476-06346668-3dd0-49af-9ded-fb0cf37ca265.png)
 
 
@@ -55,9 +63,11 @@ After:
 The small and large schools had no change, but the medium schools decreased slightly.  Thomas High School falls under the medium school category, again causing a change in the data.
 
 Before:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577612-a3f7c3a4-908b-475a-82d9-543818a93b7a.png)
 
 After:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577624-f91e2b28-36a1-47d8-981f-60615ded9604.png)
 
 
@@ -65,9 +75,11 @@ After:
 District data stayed the same and charter data decreased slightly, again, due to Thomas High School being a charter school.
 
 Before:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577738-17cd7e2f-98e8-474a-bca9-83540ffac6ae.png)
 
 After:
+
 ![image](https://user-images.githubusercontent.com/64279232/126577753-bd7ec5a9-2e76-44b3-8a19-3aadc6773c99.png)
 
 
